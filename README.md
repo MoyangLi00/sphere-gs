@@ -47,7 +47,7 @@ python view.py -s <path to COLMAP or NeRF Synthetic dataset> -m <path to trained
 
 ```bash
 # download
-git clone https://github.com/hbb1/2d-gaussian-splatting.git --recursive
+git clone https://github.com/MoyangLi00/sphere-gs.git --recursive
 
 # if you have an environment used for 3dgs, use it
 # if not, create a new environment
